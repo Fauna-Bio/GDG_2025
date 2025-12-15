@@ -15,4 +15,6 @@ Notebooks and their contents:
 * `10_shen.ipynb`: cluster Shen et al. neonatal mouse heart and check expression of _Xist_.
 * `11_qu.ipynb`: cluster Qu et al. realigned cynomolgus heart and check expression of _Xist_.
 
+The analyses of *S. scrofa* and long-read data are pending upload.
+
 The pseudobulks, as well as the fit PyDESeq2 objects, can be found at https://zenodo.org/records/17111613.
