@@ -1,5 +1,5 @@
 # GG_2025
-This repository contains notebooks that reproduce the results of the preprint "Male _XIST_ expression in cardiac pseudo-glia does not induce X chromosome inactivation".
+This repository contains notebooks that reproduce the results of the preprint "Unexpected *XIST* Expression in Male Hearts Associates with Disease".
 
 Notebooks and their contents:
 
@@ -14,6 +14,7 @@ Notebooks and their contents:
 * `9_scBaseCount_mouse_scVI.ipynb`: cluster a variety of scBaseCount mouse datasets and check expression of _Xist_ globally and in pseudo-glia.
 * `10_shen.ipynb`: cluster Shen et al. neonatal mouse heart and check expression of _Xist_.
 * `11_qu.ipynb`: cluster Qu et al. realigned cynomolgus heart and check expression of _Xist_.
+* `12_pan_promethion.ipynb`: cluster Pan et al. realigned long-read human heart and check expression of _XIST_. 
 
 The analyses of *S. scrofa* and long-read data are pending upload.
 
